@@ -1,4 +1,5 @@
-# CryptoLin (CryptoLin and CryptoLinIE are the same as this is the final published labeling)
+# CryptoLin 
+## CryptoLin and CryptoLinIE are the same as this is the final published labeling
 
 This is the official repository of Cryptocurrency Linguo IE (CryptoLinIE), a corpus create in May/2022 containing cryptocurrency related 2683 news covering more than 3-years period annotated by 84 IE Business School Students. Overall, CryptoLin aims to complement the current knowledge by providing a novel and publicly available cryptocurrency sentiment corpus and to foster research on the topic of cryptocurrency sentiment analysis and potential applications in behavioural science.
 
