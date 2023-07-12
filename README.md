@@ -7,4 +7,4 @@ This is the official repository of Cryptocurrency Linguo IE (CryptoLinIE), a cor
 * CryptoLin was human annotated with discrete values representing negative, neutral and positive news respectively by IE Business School master in Big Data students . Each news item was randomly assigned and blindly annotated by 3 humans followed by a consensus mechanism using simple voting. In case one of the annotators was in total disagreement with other two (1 negative vs 2 positive or 1 positive vs 2 negative), we considered this minority report and defaulted the labeling to neutral. 
 * The annotations also include a text span, providing the 3 manual labels providing additional insight into the decision’ reasoning. To further verify the quality of the labelling and the usefulness of CryptoLin, it also includes other data including the Fama French Three Factor Model and the outcomes of using several pre-trained Sentiment Analysis models, including FinBERT.  
 
-pd. CryptoLin, formelly known as CryptoLinIE, as it was labelled by IE University studentds.
+pd. CryptoLin, formelly known as CryptoLinIE, as it was labelled by IE University studentds. 
